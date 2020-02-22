@@ -1,0 +1,30 @@
+#shapka{
+	position: fixed;
+	background-color: red;
+	width: 100%;
+	height: 56px;	
+	top: 0;
+	padding: 0 16px;
+	margin-left: -10px;	
+	z-index: 100;
+}
+#osnova{
+	position: absolute;
+	width: 100%;
+	left: 0px;
+	top: 60px;
+	background-color: green;
+	height: 5000px;// ВРЕМЕННО!!!
+}
+#vidosiki{
+	position: absolute;
+	left: 240px;
+}
+#menu-left{
+	position: fixed;
+	background-color: blue;
+	width: 240px;	
+	left: 0px;
+	height: 100%;
+	overflow: auto;
+}

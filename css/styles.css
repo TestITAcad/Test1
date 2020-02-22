@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Long+Cang&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+
+
+h1{
+	color: #1FE775;
+	font-family: 'Pacifico', cursive;
+}
+
+.test{
+	color: #C2FFFF;
+}
+
+.red{
+	color: red;
+}
+
+td {
+	border: solid 1px black;
+	width: 250px;
+	height: 250px;
+	text-align: center;
+}
+
+th{
+	border: solid 2px red;
+}
+
+.green-bg{
+	background-color: lightgreen;
+}
+
+.rotate{
+	
+	transform: rotate(70deg) scale(0.68) translate(70px, -100px);
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+a:hover{
+	font-size: 30px;
+}
+
+
+//;
+
+
+
+//https://rgbcolorcode.com/
